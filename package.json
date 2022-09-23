@@ -3,6 +3,7 @@
 	"version": "1.0.0",
 	"main": "index.js",
 	"license": "MIT",
+	"homepage": "https://meg4cyberc4t.github.io/1cp-react-framework/",
 	"scripts": {
 		"editorconfig": "editorconfig-checker",
 		"test": "npm run editorconfig",
