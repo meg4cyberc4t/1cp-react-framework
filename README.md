@@ -1,24 +1,6 @@
-# Simple React Template
+# Первая контрольная точка по "Фраемворки JavaScript"
 
-Для успешной работы с проектом необходимо выполнить следующие действия:
+В проекте следующий результат:
 
-<ol>
-    <li>Установить <a href="https://nodejs.org/en/">Node.js</a></li>
-    <li>Скачать и распаковать проект</li>
-    <li>Открыть терминал и установить курсор терминала в папке с проектом</li>
-    <li>Установить зависимости node_modules
-        <ul>
-            <li>При наличии прав администратора
-                <div><code>npm install -g yarn</code></div>
-                <div><code>yarn install</code></div>
-            </li>
-            <li>Без прав администратора
-                <div><code>npm install</code></div>
-            </li>
-        </ul>
-    </li>
-    <li>
-        Запустить проект
-        <div><code>npm start</code></div>
-    </li>
-</ol>
+<img width="1440" alt="Снимок экрана 2022-09-23 в 11 34 36" src="https://user-images.githubusercontent.com/66907532/191922089-f7f4039d-5f90-43fb-81a3-4250684a86a2.png">
+
